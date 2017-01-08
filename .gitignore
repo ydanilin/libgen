@@ -1,0 +1,9 @@
+# ignore python compiled
+*.pyc
+# python 3 cache, in all subfolders
+__pycache__/*
+# PyCharm data, in all subfolders
+.idea/
+# Komodo data, in all subfolders
+*.komodoproject
+
